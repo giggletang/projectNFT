@@ -1,0 +1,1 @@
+build a basic NFT smart contract that will serve as the backbone or foundation for almost any future NFT project.
