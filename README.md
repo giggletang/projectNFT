@@ -1,2 +1,0 @@
-# projectNFT
-basic nft project
